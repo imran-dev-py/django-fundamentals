@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'operator mono', Consolas, 'Courier New', monospace",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "workbench.iconTheme": "vscode-icons",
+    "window.menuBarVisibility": "classic",
+    "terminal.integrated.fontSize": 18,
+}
