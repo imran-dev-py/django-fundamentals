@@ -1,7 +1,7 @@
 ![Language](https://img.shields.io/badge/Python-v3.10.x-important)&nbsp;
 ![Django](https://img.shields.io/badge/Django-v4.2.x-important)&nbsp;
 ![Update](https://img.shields.io/badge/Last%20Update-June%2014,%202023-brightgreen)&nbsp;
-![Completed](https://img.shields.io/badge/Progress-48/111-important)&nbsp;
+![Completed](https://img.shields.io/badge/Progress-50/111-important)&nbsp;
 
 - Pipenv Doc — https://pipenv-fork.readthedocs.io/
 - PyCon 2018 — [Pipenv: The Future of Python Dependency Management](https://www.youtube.com/watch?v=GBQAKldqgZs) 
@@ -54,11 +54,14 @@
 - [Mastering Django Tutorials](https://masteringdjango.com/mastering-django-tutorials/)
 - [Understanding Django](https://www.mattlayman.com/understand-django/)
 
-## Django Conferences/Podcasts
+## Django Conferences
 
 - [Django: Under The Hood 2014](https://www.youtube.com/playlist?list=PLQdy7QUATciaUglAUzka6E7zrN3UWomws)
 - [Django: Under the Hood 2016](https://www.youtube.com/playlist?list=PLQdy7QUATciZ4V3g3iCTnG5fvkZkuNGyg)
 - [DjangoCon US](https://www.youtube.com/@DjangoConUS/videos)
 - [DjangoCon Europe](https://www.youtube.com/@DjangoConEurope/videos)
+
+## Django Podcasts
+
 - [Django Riffs](https://djangoriffs.com/)
 - [Django Chat](https://djangochat.com/)
